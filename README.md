@@ -80,4 +80,3 @@ The project includes:
 
 ---
 
-## 🪄 Folder Structure
